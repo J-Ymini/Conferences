@@ -1,4 +1,4 @@
-# [인프콘 2022]-코드 리뷰의 또 다른 접근 방법: Pull Requests vs Stacked Changes
+# [[인프콘 2022]-코드 리뷰의 또 다른 접근 방법: Pull Requests vs Stacked Changes](https://www.youtube.com/watch?v=XRZPkYnWa48)
 
 ## 좋은 코드 리뷰란?
 
